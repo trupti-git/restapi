@@ -2,7 +2,7 @@
 const express = require("express");
 const { setMaxIdleHTTPParsers } = require("http");
 //const data = require("./data.json");
-const { env } = require("./lib/config");
+const { env } = require("./config/config");
 const db = require("./lib/db");
 const bodyParser = require("body-parser");
 
