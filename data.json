@@ -1,0 +1,164 @@
+[
+  {
+    "_id": { "$oid": "5eb3d668b31de5d588f4292d" },
+    "address": {
+      "building": "469",
+      "coord": [
+        { "$numberDouble": "-73.961704" },
+        { "$numberDouble": "40.662942" }
+      ],
+      "street": "Flatbush Avenue",
+      "zipcode": "11225"
+    },
+    "borough": "Brooklyn",
+    "cuisine": "Hamburgers",
+    "grades": [
+      {
+        "date": { "$date": { "$numberLong": "1419897600000" } },
+        "grade": "A",
+        "score": { "$numberInt": "8" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1404172800000" } },
+        "grade": "B",
+        "score": { "$numberInt": "23" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1367280000000" } },
+        "grade": "A",
+        "score": { "$numberInt": "12" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1336435200000" } },
+        "grade": "A",
+        "score": { "$numberInt": "12" }
+      }
+    ],
+    "name": "Wendy'S",
+    "restaurant_id": "30112340"
+  },
+  {
+    "_id": { "$oid": "5eb3d668b31de5d588f42a19" },
+    "address": {
+      "building": "59",
+      "coord": [
+        { "$numberDouble": "-74.00340299999999" },
+        { "$numberDouble": "40.733235" }
+      ],
+      "street": "Grove Street",
+      "zipcode": "10014"
+    },
+    "borough": "Manhattan",
+    "cuisine": "American",
+    "grades": [
+      {
+        "date": { "$date": { "$numberLong": "1413331200000" } },
+        "grade": "A",
+        "score": { "$numberInt": "13" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1398124800000" } },
+        "grade": "A",
+        "score": { "$numberInt": "9" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1375142400000" } },
+        "grade": "B",
+        "score": { "$numberInt": "23" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1339632000000" } },
+        "grade": "C",
+        "score": { "$numberInt": "29" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1323907200000" } },
+        "grade": "A",
+        "score": { "$numberInt": "12" }
+      }
+    ],
+    "name": "Maries Crisis Cafe",
+    "restaurant_id": "40368581"
+  },
+  {
+    "_id": { "$oid": "5eb3d668b31de5d588f4297a" },
+    "address": {
+      "building": "461",
+      "coord": [
+        { "$numberDouble": "-74.002944" },
+        { "$numberDouble": "40.652779" }
+      ],
+      "street": "37 Street",
+      "zipcode": "11232"
+    },
+    "borough": "Brooklyn",
+    "cuisine": "American",
+    "grades": [
+      {
+        "date": { "$date": { "$numberLong": "1417132800000" } },
+        "grade": "A",
+        "score": { "$numberInt": "12" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1386115200000" } },
+        "grade": "A",
+        "score": { "$numberInt": "13" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1354752000000" } },
+        "grade": "A",
+        "score": { "$numberInt": "12" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1323129600000" } },
+        "grade": "A",
+        "score": { "$numberInt": "12" }
+      }
+    ],
+    "name": "Melody Lanes",
+    "restaurant_id": "40364889"
+  },
+  {
+    "_id": { "$oid": "5eb3d668b31de5d588f42aa1" },
+    "address": {
+      "building": "206",
+      "coord": [
+        { "$numberDouble": "-73.9993545" },
+        { "$numberDouble": "40.7286288" }
+      ],
+      "street": "Thompson Street",
+      "zipcode": "10012"
+    },
+    "borough": "Manhattan",
+    "cuisine": "Armenian",
+    "grades": [
+      {
+        "date": { "$date": { "$numberLong": "1418256000000" } },
+        "grade": "A",
+        "score": { "$numberInt": "10" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1398729600000" } },
+        "grade": "A",
+        "score": { "$numberInt": "9" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1380585600000" } },
+        "grade": "A",
+        "score": { "$numberInt": "11" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1347408000000" } },
+        "grade": "A",
+        "score": { "$numberInt": "6" }
+      },
+      {
+        "date": { "$date": { "$numberLong": "1329350400000" } },
+        "grade": "A",
+        "score": { "$numberInt": "10" }
+      }
+    ],
+    "name": "The Malt House",
+    "restaurant_id": "40373912"
+  }
+]
